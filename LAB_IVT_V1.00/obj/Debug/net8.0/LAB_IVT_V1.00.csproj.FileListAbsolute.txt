@@ -1,0 +1,14 @@
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\bin\Debug\net8.0\LAB_IVT_V1.00.exe
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\bin\Debug\net8.0\LAB_IVT_V1.00.deps.json
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\bin\Debug\net8.0\LAB_IVT_V1.00.runtimeconfig.json
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\bin\Debug\net8.0\LAB_IVT_V1.00.dll
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\bin\Debug\net8.0\LAB_IVT_V1.00.pdb
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\LAB_IVT_V1.00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\LAB_IVT_V1.00.AssemblyInfoInputs.cache
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\LAB_IVT_V1.00.AssemblyInfo.cs
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\LAB_IVT_V1.00.csproj.CoreCompileInputs.cache
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\LAB_IVT_V1.00.dll
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\refint\LAB_IVT_V1.00.dll
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\LAB_IVT_V1.00.pdb
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\LAB_IVT_V1.00.genruntimeconfig.cache
+C:\Users\Hasper\source\repos\LAB_IVT_V1.00\obj\Debug\net8.0\ref\LAB_IVT_V1.00.dll
